@@ -1,5 +1,5 @@
 =====================================
-  ATIVIDADE - CAP20 | API REST Node.js
+  ATIVIDADE - API REST Node.js
 =====================================
 
 Nome: Renan Cáceres Anselmo
